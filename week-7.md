@@ -1,7 +1,9 @@
 ### Lab Report 4 - Vim (Week 7)
 #### 4. Logging into ieng6
 
-Screenshot: ![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/b7df2b7e-381b-4733-9ab1-dab27fc8a81d)
+Screenshot: 
+
+![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/b7df2b7e-381b-4733-9ab1-dab27fc8a81d)
 
 Keys pressed - I typed the following command and argument:
 ``` 
@@ -50,7 +52,9 @@ which allowed me to run the tests in this fashion.
 #### 7. Editing the code file ListExamples.java
 
 Screenshot (s) : 
+
 ![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/9861ed0c-87b3-4a3a-a402-ec32288e5412)
+
 ![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/45be1a11-7497-41d3-83a9-d9e81c41dcee)
 
 Keys pressed: First, I typed in the the `vim` command then `<Shift>` `l` `<Tab>` `.` `<Tab>``<Enter>` to run in the command line:
@@ -65,7 +69,9 @@ I started at `(1,1)` at the beginning, I had to move 43 lines down which is `43j
 
 #### 8. Running the tests (after fix)
 
-Screenshot: ![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/d1a34d3c-d1ef-450d-8ef1-bd51000ddfe9)
+Screenshot: 
+
+![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/d1a34d3c-d1ef-450d-8ef1-bd51000ddfe9)
 
 Keys pressed: `<up><up><enter>` to run the same command as I did in Step 6.
 
@@ -73,7 +79,9 @@ Command Summary: The command that was run was run 2 commands ago, which is why I
 
 #### 9. Committing and pushing Changes to GitHub
 
-Screenshot: ![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/68ee1051-134b-4013-aa3e-515225e7e56c)
+Screenshot:
+
+![image](https://github.com/cnidyllic/lab-report-4/assets/146884284/68ee1051-134b-4013-aa3e-515225e7e56c)
 
 Keys pressed: 
 I first typed in the `git add` command and then typed `<Shift>` `l` `<Tab>` `.` `<Tab>``<Enter>` to run in the command line:
